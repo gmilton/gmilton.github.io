@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<!--Remember to make prettier with different fonts, like Lobster-->
+<html lang=en-UK>
+<head>
+  <title>Grace Milton</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js"></script>
+  <link href="https://fonts.googleapis.com/css?family=Lobster|Raleway" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <meta charset="UTF-8">
+  <meta name="description" content="My love for BTVS">
+  <meta name="keywords" content="BTVS, Giles">
+  <meta name="author" content="Grace Milton">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <ul id="nav">
+    <li><a class="active" href="index.html#top">Home</a></li>
+    <li style="float:right"><a href="index.html#contact">Contact</a></li>
+    <li style="float:right"><a href="Grace_Milton_Resume.pdf" target="_blank">CV</a></li>
+    <li style="float:right"><a href="index.html#portfolio">Portfolio</a></li>
+    <li style="float:right"><a href="index.html#courses">Courses</a></li>
+    <li style="float:right"><a href="about.html">About</a></li>
+  </ul>
+  <br><br>
+  <h1 id="name"><abbr title="G$">Grace Milton</abbr></h1>
+  <p id="bio">I'm a junior Computer Science and Theology major at the University of Notre Dame,
+    originally from Farmington Hills, MI. In high school, I participated in FIRST Robotics
+    and mentored my local middle school First Lego League team. I recently came
+    back from studying abroad in London, which was the most amazing experience. I
+    hope to return there for graduate school so I can explore the city more and see a
+    play in every West End theatre. In my free time, I compete in hackathons, code with
+    friends, and obsess over Buffy the Vampire Slayer.</p>
+  <br>
+  <ul id="likes">
+    <li id="lk">Likes
+      <ul>
+        <li>BTVS</li><br>
+        <li>Seeing plays with my favorite actors</li><br>
+        <li>Comic books</li><br>
+        <li>Going for walks</li><br>
+        <li>Apple juice</li><br>
+      </ul>
+    </li>
+    <li id="dl" style="float:right">Dislikes
+      <ul>
+        <li>Not watching BTVS</li><br>
+        <li>The cost of seeing plays with my favorite actors</li><br>
+        <li>The cost of comic books</li><br>
+        <li>Walking too far and then having to walk back</li><br>
+        <li>Watered down apple juice</li><br>
+      </ul>
+    </li>
+  </ul>
+  <br><br><br><br><br><br><br><br><br>
+  <button id="ff_button" onclick="reveal();" class="button" style="vertical-align:middle"><span>Fun Fact </span></button>
+  <h2 id="ff_title" style="display:none">Fun Fact</h2>
+  <div id="ff" style="display:none">
+    <p id="funfact">Fun Fact: When I was in London, I got the chance to see not just one,
+        but three different plays with three of my favorite actors.
+        I saw Anthony Stewart Head in <i>Love in Idleness</i>,
+        David Tennant in <i>Don Juan in Soho</i>,
+        and Andrew Scott in <i>Hamlet</i>.</p>
+    <br>
+    <button id="leftarrow" onclick="plusDivs(-1)" style="float:left">&#10094;</button>
+    <a href="http://www.imdb.com/name/nm0372117/" target="_blank"><img id=anthony class="mySlides" src="anthonyhead.jpg" ></a>
+    <a href="http://www.imdb.com/name/nm0855039/" target="_blank"><img id=david class="mySlides" src="davidtennant.jpg" ></a>
+    <a href="http://www.imdb.com/name/nm0778831/" target="_blank"><img id=andrew class="mySlides" src="andrewscott.jpg" ></a>
+    <script>
+      var slideIndex = 1;
+      showDivs(slideIndex);
+    </script>
+    <button id="rightarrow" onclick="plusDivs(1)" style="float:right">&#10095;</button>
+  </div>
+  <br><br><br><br><br>
+  <footer id="contact">
+    <span id="phone number">(248) 331-3781</span>
+    <br>
+    <p id="email">gmilton@nd.edu</p>
+    <br>
+    <a id="icon" href="https://github.com/gmilton" target="_blank"><i class="fa fa-github"></i></a>
+    &nbsp&nbsp&nbsp
+    <a href="https://gitlab.com/gmilton" target="_blank"><i class="fa fa-gitlab"></i></a>
+    &nbsp&nbsp&nbsp
+    <a href="https://facebook.com/grace.milton.98" target="_blank"><i class="fa fa-facebook"></i></a>
+    &nbsp&nbsp&nbsp
+    <a href="http://jsfiddle.net/user/gmilton/" target="_blank"><i class="fa fa-jsfiddle"></i></a>
+    <br><br>
+    <small>Built using <a href="http://fontawesome.io" target="_blank">Font Awesome</a></small>
+  </footer>
+</body>
+</html>
