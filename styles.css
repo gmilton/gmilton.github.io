@@ -1,0 +1,228 @@
+body {
+  background: linear-gradient(to bottom right, #345678, white);
+  color: #555555;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin: 0;
+  height: 100%;
+}
+
+h1 {
+  color: aliceblue;
+}
+
+#name, #ff_title {
+  font-family: 'Lobster', cursive;
+  font-size: 250%;
+}
+#current {
+  font-family: 'Raleway', sans-serif;
+}
+#episode {
+  font-family: 'Lobster', cursive;
+}
+#Ripper {
+  font-family: 'Lobster', cursive;
+}
+a:link {
+  color: #234567;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #234567;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: transparent;
+}
+
+a:active {
+  color: dimgrey;
+  background-color: transparent;
+}
+
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #333;
+}
+
+.active {
+  background-color: #333;
+}
+
+#giles_button {
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+#spike_button {
+  border-radius: 25px;
+  background-color: white;
+  color: black;
+  font-family: 'Raleway', sans-serif;
+}
+
+header {
+  padding: 1em;
+  padding-top: 30px;
+  color: aliceblue;
+  background: transparent;
+  clear: left;
+  text-align: center;
+}
+
+#projects {
+  text-align: left;
+  margin-left: 33%;
+  margin-right: 33%;
+}
+
+p.description {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+footer {
+  background: darkgrey;
+  color:white;
+  padding: 20px;
+}
+
+#email {
+  padding-top: 0px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+#bio {
+  color: #cdcdcd;
+  text-align: justify;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+#likes {
+  list-style-type: none;
+}
+
+#lk {
+  margin-left: 15%;
+  list-style-type: none;
+  text-decoration: underline;
+  color: #565656;
+}
+
+#dl {
+  margin-right: 15%;
+  list-style-type: none;
+  text-decoration: underline;
+  color: #565656;
+}
+
+#funfact {
+  color: #565656;
+  text-align: justify;
+  margin-left: 30%;
+  margin-right: 31%;
+}
+
+#anthony, #david {
+  width: 25%;
+}
+
+#andrew {
+  width: 33%;
+}
+
+#zoomed {
+  width: 78%;
+}
+
+#profile_photo {
+  width: 76%;
+}
+
+#leftarrow {
+  margin-left: 25%;
+  margin-top: 15%;
+  font-size: 200%;
+}
+
+#rightarrow {
+  margin-right: 25%;
+  margin-top: 15%;
+  font-size: 200%;
+}
+
+#myslides {
+  margin-right: 400px;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #345678;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
