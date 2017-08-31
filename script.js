@@ -1,13 +1,3 @@
-function alert_box() {
-  alert("Welcome to Grace Milton's Portfolio Webpage! I hope you enjoy exploring it as much as I enjoyed creating it.");
-}
-function zoom() {
-  document.getElementById("profile_photo").id = "zoomed";
-}
-function unzoom() {
-  document.getElementById("zoomed").id = "profile_photo";
-}
-
 function reveal() {
   ff.style.display="block";
   ff_button.style.display="none";
