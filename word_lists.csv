@@ -1,0 +1,477 @@
+﻿Term,Definition,Greek/Latin,POS
+aden-,gland,"ἀδήν, ἀδένος (gland)",Word Root
+cancer-,cancer,"cancer, cancri m. (crab)",Word Root
+carcin-,cancer,"καρκίνος (crab, sore, ulcer, pair of pincers, forceps, instrument of torture)",Word Root
+chlor-,green,"χλωρός (greenish yellow, pale green, living, fresh)",Word Root
+chrom-,color,χρῶμα (color),Word Root
+cyan-,blue,"κύανος (dark blue enamel, lapis lazuli, other blue things; a noun!)",Word Root
+cyt-,cell,κύτος (hollow vessel),Word Root
+epitheli-,epithelium,ἐπί (upon) + θηλή (nipple),Word Root
+erythr-,red,ἐρυθρός (red),Word Root
+eti-,cause (of disease),αἰτία (cause),Word Root
+fibr-,fiber,"fibra, -ae (fiber, filament, entrails)",Word Root
+gno-,knowledge,γιγνωσκω/γνῶσις (I know/knowledge),Word Root
+hist-,tissue,"ἱστός (something woven, web, tissue)",Word Root
+iatr-,"physician, medicine (also: treatment)",ἰατρός (doctor),Word Root
+kary-,nucleus,"κάρυον (nut, stone, kernel)",Word Root
+lei-,smooth,"λεῖος (smooth, level, soft, plain)",Word Root
+leuk-,white,λευκός (white),Word Root
+lip-,fat,"λίπος (animal fat, lard, tallow)",Word Root
+melan-,black,"μέλας, μέλαινα, μέλαν; μέλανος (black)",Word Root
+my-,muscle,"μῦς, μύος (field mouse, muscle)",Word Root
+neur-,nerve,"νεῦρον, το (sinew, tendon)",Word Root
+onc-,"tumor, mass","ὄγκος (bulk, mass, body)",Word Root
+organ-,organ,"organum, i  (instrument, implement, engine)",Word Root
+path-,disease,"πάθος (suffering, experience, misfortune, condition, state)",Word Root
+rhabd-,"rod-shaped, striated","ῥάβδος (magic wand, staff, rod, stick, decorative stripe)",Word Root
+sarc-,"flesh, connective tissue","σάρξ, σαρκός ἡ (flesh)",Word Root
+somat-,body,"σῶμα, σώματος (body)",Word Root
+system-,system,"σύστημα  (system, from συν: with ιστημι: I stand)",Word Root
+viscer-,internal organs,"viscus, visceris n. (soft flesh, entrails) related to visco ""I make sticky""",Word Root
+xanth-,yellow,ξανθὀς (yellow),Word Root
+dia-,"through, complete",διά (through),Prefix
+dys-,"painful, abnormal, difficult, labored",δυσ- (bad),Prefix
+hyper-,"above, excessive",ὑπέρ (beyond),Prefix
+hypo-,"below, incomplete, deficient, under",ὑπό (under),Prefix
+meta-,"after, beyond, change","μετά (with, after)",Prefix
+neo-,new,νέος (new),Prefix
+pro-,before,pro (before) or προ (before),Prefix
+ -al,pertaining to, -alis,Suffix
+ -cyte,cell,κύτος (hollow vessel),Suffix
+ -gen,substance or agent that produces or causes,"γεννάω (I beget, bear, create, produce) - causal form of γίγνομαι (I become)",Suffix
+ -genic,"producing, causing, originating","γεννάω (I beget, bear, create, produce) - causal form of γίγνομαι (I become)",Suffix
+ -ic,pertaining to, -icus or -ικ-,Suffix
+ -logist,"one who studies and treats (specialist, physician)",λόγος (account) + ist,Suffix
+ -logy,study of,λόγος (account) + y,Suffix
+ -megaly,enlargement,"μέγας, μεγάλη, μέγα (large) + y",Suffix
+ -oid,resembling,"εἶδος (vision, appearance) latinized into -oid",Suffix
+ -oma,"tumor, swelling"," -ωμα, (-μα) Greek noun-forming suffix, adopted into English by analogy with sarcoma, etc.",Suffix
+ -osis,abnormal condition (means increase when used with blood cell word roots)," -ωσις (noun formation from verbs - omicron contract + σις, esp aor stem - e.g. δηλωσις)",Suffix
+ -ous,pertaining to," -osus into french -ous/eux, ""full of""",Suffix
+ -pathy,disease,πάθος (suffering/experience) + y,Suffix
+ -plasia,"condition of formation, development, growth","πλάσις (molding, conformation) + ia",Suffix
+ -plasm,"growth, substance, formation","πλάσμα (anything molded, a figure, counterfeit, forgery)",Suffix
+ -sarcoma,malignant tumor,σάρκωμα (fleshy outgrowth),Suffix
+ -sis,state of, -σις (Gk suffix for state or condition),Suffix
+ -stasis,"control, stop, standing","στάσις (placing, setting, standing, position, station, state, condition, faction)",Suffix
+anter-,front,anterior (earlier/before-er),Word Root
+caud-,tail (downward),"cauda, -ae (tail)",Word Root
+cephal-,head,"κεφαλή (head, can refer to a whole person)",Word Root
+dist-,away (from the point of attachment of a body part,English: dist(ance) + -al,Word Root
+dors-,back,"dorsum, i (back)",Word Root
+infer-,below,inferior (lower),Word Root
+later-,side,"latus, lateris n. (side, flank)",Word Root
+medi-,middle,"medius, a, um (middle)",Word Root
+poster-,"back, behind","posterior (later, more-after)",Word Root
+proxim-,near (the point of attachment of a body part),proximus (nearest),Word Root
+super-,above,"super (preposition; above, over, excessive)",Word Root
+ventr-,belly (front),"venter, ventris m. (belly, paunch, appetite for food, womb, bowels, any protuberance)",Word Root
+bi-,two,bis (two times),Prefix
+uni-,one,"unus, a, um (one)",Prefix
+ -ad,toward,"ad (to, toward)",Suffix
+ -ior,pertaining to,xx,Suffix
+sagittal,[plane of the body],sagitta f. (arrow),Body Axis
+coronal,[plane of the body],"corona f. (crown, garland)",Body Axis
+frontal,[plane of the body],"frons, frontis m. (forehead)",Body Axis
+transverse,[plane of the body],transversus (traveled across),Body Axis
+supine,[body position],supinus (lying on the back),Position
+prone,[body position],pronus (lying on the stomach),Position
+recumbent,[body position],recumbere (to lie down),Position
+lithotomy,[body position],λιθος (stone) + τομη (cut),Position
+orthopnea,[body position],"ορθος (correct, upright) + πνεα (breathing)",Position
+aut-,self,αὐτός (self),Word Root
+bi-,life,βίος (life),Word Root
+coni-,dust,"κονία (dust, ash)",Word Root
+crypt-,hidden,κρυπτω (to hide),Word Root
+cutane-,skin,"cutanius (adj. for skin) from cutis, is f.",Word Root
+derm-,skin,δέρμα/δερματος  (skin),Word Root
+dermat-,skin,δέρμα/δερματος  (skin),Word Root
+heter-,other,ἕτερος (other),Word Root
+hidr-,sweat,"ἱδρώς, ἱδρῶτος (sweat, exudation)",Word Root
+kerat-,"horny tissue, hard","κεράς, κεράτος, το (horn of an animal and anything made from it)",Word Root
+myc-,fungus,"μύκης, μηκητος (mushroom, knobby round body)",Word Root
+necr-,"death (cells, body)",νεκρός (corpse),Word Root
+onych-,nail,"ὄνυξ, ὄνυχος, ὁ (claws, nail, anything claw-like)",Word Root
+pachy-,thick,"παχύς, εῖα, ύ (thick)",Word Root
+rhytid-,wrinkles,"ῥυτίς, ῥυτίδος ἡ (pucker, wrinkle)",Word Root
+seb-,sebum (oil),"sebum, -i (tallow, suet, grease, esp. pig fat)",Word Root
+staphyl-,grapelike clusters,"σταφυλή (bunch of grapes, uvula)",Word Root
+strept-,twisted chains,"στρεπτός (easily twisted, pliant, bent, curved)",Word Root
+trich-,hair,"θρίξ, τριχός (hair)",Word Root
+ungu-,nail,"unguis, is m.  (nail)",Word Root
+xer-,dry,ξερός  (dry),Word Root
+epi-,"on, upon, over",ἐπί  (upon),Prefix
+intra-,within,intra  (within),Prefix
+para-,"beside, beyond, around, abnormal","παρά  (beyond, alongside)",Prefix
+per-,through,per (through),Prefix
+sub-,"under, below","sub  (under, below)",Prefix
+trans-,"through, across, beyond","trans (through, across)",Prefix
+ -a,no meaning,(inflected ending),Suffix
+ -coccus,berry-shaped (form of bacterium),"κόκκος (grain, seed) [into Latin as coccum, -i for a berry growing on scarlet oak]",Suffix
+ -ectomy,excision or surgial removal,ἐκ (out of) + τομή  (cut),Suffix
+ -itis,inflammation, -ιτις (inflected ending),Suffix
+ -malacia,softening,μαλακία (softness),Suffix
+ -opsy,"view of, viewing","ὤψ, ὠπός (eye, face) + y",Suffix
+ -phagia,eating or swallowing,"ἕφαγον (to eat) + ia  OR φαγός (glutton, eater)",Suffix
+ -plasty,surgical repair,"πλαστός (formed, moulded, fabricated) + y",Suffix
+ -rrhea,"flow, discharge","ῥοία (flow, flux) from ῥέω (to flow)",Suffix
+ -tome,instrument used to cut,"τομή (a cutting, severance, separation) from  τέμνω (to cut)",Suffix
+adenoid-,adenoids,αδην (gland) + ειδος (appearance of),Word Root
+alveol-,alveolus,"alveolus, -i (tray, trough, basin, oil jar, small) diminutive from alveus: (all of the above, small boat, bathtub, beehive, ship's hold)",Word Root
+atel-,"incomplete, imperfect",α (not) + τέλος (end),Word Root
+bronch-,bronchus,"βρόγχος (trachea, windpipe; throat)",Word Root
+bronchi-,bronchus,"βρόγχος (trachea, windpipe; throat)",Word Root
+capn-,carbon dioxide,καπνός (smoke; CO2 is later),Word Root
+diaphragmat-,diaphragm,"δια- (through) φραγμα (fence, breast-work, screen, protection, defense)",Word Root
+epiglott-,epiglottis,ἐπιγλωσσίς > επι (upon) + γλωσσα (tongue),Word Root
+hem-,blood,"αἷμα, αἱματος, το (blood)",Word Root
+hemat-,blood,"αἷμα, αἱματος, το  (blood)",Word Root
+laryng-,larynx,"λάρυγξ, λάρυγγος (larynx)",Word Root
+lob-,lobe,"lobus, -i, Medieval Latin from λοβός (lobe of the ear/liver/lung)",Word Root
+muc-,mucus,"mucus, i (snot, mucus)",Word Root
+nas-,nose,"nasus, -i (nose)",Word Root
+orth-,straight,"ὀρθός (upright, right, straight)",Word Root
+ox-,oxygen,"ὀξύς, εῖα, ύ (sharp, keen, shrill, pungent, acid, quick)",Word Root
+pharyng-,pharynx,"φάρυγξ, φάρυγγος (pharynx)",Word Root
+phon-,sound,"φωνή (sound, voice)",Word Root
+phren-,diaphragm,"φρήν (midsection, heart as seat of passions, mind as seat of mental perception, will)",Word Root
+pleur-,pleura,"πλευρόν (rib, side, flank)",Word Root
+pneum-,"lung, air","πνεῦμα, πνεύματος (blast, wind, air, breath, breathing, divine inspiration)",Word Root
+pneumat-,"lung, air","πνεῦμα, πνεύματος (blast, wind, air, breath, breathing, divine inspiration )",Word Root
+pneumon-,"lung, air","πνεύμων, πνεύμονος (lung) related to πνεω (to breathe)",Word Root
+pulmon-,lung,"pulmo, pulmonis m  (lung)",Word Root
+py-,pus,πύον (discharge from a sore),Word Root
+radi-,"x-rays, ionizing radiation","radius, -ii (staff, spoke, shining ray, radius bone)",Word Root
+rhin-,nose,"ῥίς, ῥινός ἡ (nose, snout, pl: nostrils)",Word Root
+sept-,septum,"septum, -i (septum)  from saeptum (fence) from  saepio (to hedge in) from saepes (hedge, fence)",Word Root
+sinus-,sinus,"sinus, -us m. (bent surface, curve, fold, hollow, bosom, interior, hiding place, bay)",Word Root
+somn-,slep,"somnus, -i (sleep)",Word Root
+son-,sound,"sonus, -i (sound)",Word Root
+spir-,"breathe, breathing",spiro (to breathe),Word Root
+thorac-,"thorax, chest, chest cavity","θώραξ, θώρακος (breastplate, armor, chest (under the armor), trunk)",Word Root
+tom-,"to cut, section, or slice","τομή (a cutting, severance, separation) from τέμνω (to cut)",Word Root
+tonsill-,tonsil,"tonsilla, -ae (pointed pole stuck in ground as mooring post for ships, pl: tonsils)",Word Root
+trache-,trachea,"τραχύς, εῖα, ύ (rough, shaggy, jagged, harsh)",Word Root
+a-,"absence of, without",α/a (not),Prefix
+an-,"absence of, without",αν/an  before a vowel/h (not),Prefix
+endo-,within,ἔνδον (within),Prefix
+eu-,"normal, good",εὖ (well),Prefix
+poly-,"many, much","πολύς, πολλή, πολύ (many, much)",Prefix
+tachy-,"fast, rapid","ταχύς, ταχεῖα, ταχύ (quick)",Prefix
+ -algia,pain,ἄλγος (pain),Suffix
+ -ar,pertaining to, -aris  (adjective ending),Suffix
+ -ary,pertaining to, -arius (adjective ending),Suffix
+ -cele,hernia or protrusion,"κήλη (tumor, rupture, hernia, hump)",Suffix
+ -centesis,surgical puncture to aspirate fluid,κέντησις (pricking) + εσις (action of),Suffix
+ -eal,pertaining to, -alis (adjective ending),Suffix
+ -ectasis,"stretching out, dilation, expansion","ἔκτασις (stretching out, extension, extent, deployment) from ἐκ (out of)  + τάσις (stretching, tension, extension)",Suffix
+ -emia,in the blood,αἷμα (blood) + ia,Suffix
+ -gram,"record, radiographic image",γράμμα (letter),Suffix
+ -graph,instrument used to record; record,"γραφή (physical writing, i.e. written thing/thing written)",Suffix
+ -graphy,"process of recording, radiographic imaging",γραφή (physical writing) + y,Suffix
+ -ia,"diseased or abnormal state, condition of", -ia,Suffix
+ -meter,instrument used to measure,"μέτρον (measure, rule, length, size) related to Latin metrum, i  (measure)",Suffix
+ -pexy,"surgical fixation, suspension","πῆξις (fixing, constructing, solidity) from πήγνυμι (to fix)",Suffix
+ -pnea,breathing,"πνοιά (breath, wind, gust of wind) from πνέω (to breathe)",Suffix
+ -rrhagia,rapid flow of blood,"ῥήγνυμι (break (loose), shatter, used for bursting into tears)",Suffix
+ -scope,instrument used for visual examination,σκοπεῖα (n.pl. instruments of observation); related to σκοπός (watcher) and σκοπή (watchtower) and all from σκοπέω (to look for),Suffix
+ -scopic,pertaining to visual examination,σκοπ- (root: “look”) + -ικ (adjective ending),Suffix
+ -scopy,visual examination,σκοπ- (root: “look”) + y,Suffix
+ -spasm,"sudden, involuntary muscle contraction","σπάσμα (sprain, rupture of muscular fiber, spasm, convulsion, fragment (i.e. torn off thing) OR σπασμός (convulsion, epileptic fit, violent agitation)",Suffix
+ -stenosis,constriction or narrowing,"στένωσις (situation of being straightened); στενός (narrow, confined) + -osis",Suffix
+ -stomy,creation of an artificial opening,"στόμα, στόματος (mouth esp. as speech organ, any outlet or entrance, front) + y",Suffix
+ -thorax,"chest, chest cavity","θώραξ, θώρακος (breastplate, armor, chest (under the armor), trunk)",Suffix
+ -tomy,"cut into, incision","τομή (a cutting, severance, separation) from τέμνω (to cut) + y",Suffix
+albumin-,albumin,"albumen, -inis n. (albumin)",Word Root
+azot-,"urea, nitrogen",α (not) + ζωή (life) [through french: azote],Word Root
+blast-,"developing cell, germ cell","βλαστός (shoot, embryo, offspring, germ, bud, blossom)",Word Root
+cyst-,"bladder, sac","κύστις, -εως ἡ (bladder, pouch)",Word Root
+glomerul-,glomerulus,"glomus, glomeris n. (ball of yarn - i.e. made by winding)",Word Root
+glyc-,sugar,γλυκύς (adj),Word Root
+glycos-,sugar,γλυκύς (adj),Word Root
+hydr-,water,"ἥδωρ, ἥδατος, το (water)",Word Root
+lith-,"stone, calculus",λίθος (stone),Word Root
+meat-,meatus (opening),"meatus, -us (opening, passage, course)",Word Root
+nephr-,kidney,νεφρός (kidney),Word Root
+noct-,night,"nox, noctis f. (night)",Word Root
+olig-,"scanty, few",όλίγος (few),Word Root
+pyel-,renal pelvis,"πύελος (trough, bathing tub, vat)",Word Root
+ren-,kidney,"renes, renum (m.pl.) (kidneys)",Word Root
+ur-,"urine, urinary tract",οὖρον (urine),Word Root
+ureter-,ureter,οὐρητήρ (urethra/ureter),Word Root
+urethr-,urethra,"οὐρήθρα (urethra; also: sewage tank?!) - οὖρον + θυρα (door), literally",Word Root
+urin-,"urine, urinary tract","urina, -ae (urine)",Word Root
+vesic-,"bladder, sac","vesica, -ae (bladder, urinary bladder, anything made out of a bladder, blister)",Word Root
+ -esis,condition," -ησις (action of, process of; noun-forming suffix)",Suffix
+ -iasis,condition,-ιασις (noun-forming suffix),Suffix
+ -lysis,"loosening, dissolution, separation","λύσις (loosening, parting) from λύω (to release)",Suffix
+ -ptosis,"drooping, sagging, prolapse","πτῶσις (falling, fall) from πίπτω (to fall)",Suffix
+ -rrhaphy,"suturing, repairing","ῥαφή (seam, suture, stitching) from ράπτω (to sew)",Suffix
+ -tripsy,surgical crushing,"τρῖψις (rubbing, friction, wear and tear) from τρίβω (to wear away, to rub))",Suffix
+ -trophy,"nourishment, development","τροφή (food, nourishment, livelihood, meal, nurture, rearing) + y",Suffix
+ -uria,"urine, urination",οὖρον (urine) + ia,Suffix
+andr,male,ἀνήρ/ἀνδρός,Word Root
+balan-,glans penis,"βάλανος (acorn, glans penis)",Word Root
+epididym-,epididymis,"ἐπιδιδυμίς > επι (upon) +δίδυμος (double, twofold, twin, testicles, [ovaries]) - ""upon the twins""",Word Root
+orch-,"testis, testicle","ὄρχις (testicle, ovary, kind of olive)",Word Root
+orchi-,"testis, testicle","ὄρχις (testicle, ovary, kind of olive)",Word Root
+orchid-,"testis, testicle","ὄρχις (testicle, ovary, kind of olive)",Word Root
+prostat-,prostate gland,"προστάτης (one who stands before (προ + στατης); ruler, guardian, suppliant; prostate gland)",Word Root
+sperm-,"spermatozoon, sperm","σπέρμα/σπέρματος (seed, semen, race, offspring)",Word Root
+spermat-,"spermatozoon, sperm","σπέρμα/σπέρματος (seed, semen, race, offspring)",Word Root
+test-,"testis, testicle,","testis, testis m.  (testis)",Word Root
+vas-,"vessel, duct","vas, vasis n. (vessel, dish, utensil, implements, baggage)",Word Root
+vesicul-,seminal vesicle,"vesicula, -ae (little blister, vesicle, seed-vessel",Word Root
+ -ism,state of, -ism or -ισμος (condition indicated by stem),Suffix
+arche-,"first, beginning",ἀρχή (beginning),Word Root
+cervic-,"cervix, neck","cervix, cervicis f. (neck)",Word Root
+colp-,vagina,"κόλπος (bosom, lap, vagina, fold of a garment, hollow, bay in the sea)",Word Root
+culd-,cul-de-sac,"French: cul-de-sac (bottom-of-bag) > Latin culus (anus), de (concerning), saccus (bag, sack, esp. moneybag)",Word Root
+episi-,vulva,ἐπίσιον (pubic region),Word Root
+gyn-,woman,"γυνή, γυναικὀς (woman)",Word Root
+gynec-,woman,"γυνή, γυναικὀς (woman)",Word Root
+hymen-,hymen,"ὑμήν, ὑμένος, ὁ (thin skin, membrane)",Word Root
+hyster-,uterus,ὑστέρα (womb),Word Root
+mamm-,breast,"mamma, -ae (breast)",Word Root
+mast-,breast,μαστός (breast),Word Root
+men-,menstruation,"μήν, μήνος (month)",Word Root
+metr-,uterus,μἠτρα (uterus),Word Root
+oophor-,ovary,"ᾠοφόρος, ον (egg-bearing): [ᾠόν (egg)+ φορος (bearer)]",Word Root
+perine-,perineum,περίνεος (space between anus and scrotum),Word Root
+salping-,uterine tube (fallopian tube),"σάλπιγξ, σάλπιγγος (trumpet)",Word Root
+vagin-,vagina,"vagina, -ae (scabbard, sheath, covering)",Word Root
+vulv-,vulva,"vulva, -ae, more commonly volva, -ae (wrapper, covering, womb, uterus)",Word Root
+peri-,surrounding (outer),περί (around),Prefix
+ -atresia,absence of a normal body opening; occlusion; closure,"α (not) + τρῆσις (perforation, boring through)",Suffix
+ -salpinx,uterine tube (fallopian tube),"σάλπιγξ, σάλπιγγος  (trumpet)",Suffix
+amni-,"amnion, amniotic fluid","ἀμνίον (bowl to catch sacrificial victim blood, inner membrane around fetus) related to ὁ αμνος, lamb",Word Root
+amnion-,"amnion, amniotic fluid","ἀμνίον (bowl to catch sacrificial victim blood, inner membrane around fetus) related to ὁ αμνος, lamb",Word Root
+chori-,chorion,"χόριον (membrane around the fetus in the womb, afterbirth; membrane inside an egg, any intestinal membrane, haggis)",Word Root
+embry-,"embryo, to be full","εν (in) + βρυω (to swell with, be full of)",Word Root
+esophag-,esophagus,οισοφάγος -(gullet) probably from οισω (fut of φερω) + φαγος/ον/ων (glutton) or (ε)φαγον (from εσθιω),Word Root
+fet-,unborn child,"fetus, -us m. (fruit, offspring)",Word Root
+gravid-,pregnancy,"gravidus (adj) (heavy, pregnant)",Word Root
+lact-,milk,"lac, lactis n. [related to γάλα, γάλακτος] (milk)",Word Root
+nat-,birth,"natus, -a, -um or natus, -i (born; son)",Word Root
+omphal-,"umbilicus, navel","όμφαλός (navel, center point)",Word Root
+par-,"give birth to, bear, labor, childbirth",pario/partus (to give birth),Word Root
+part-,"bear, give birth to, labor, childbirth",pario/partus (to give birth),Word Root
+pelv-,"pelvis, plevic bone","pelvis, is f. (basin, washtub)",Word Root
+prim-,"first, beginning","primus, a, um (first) [takes combining vowel in i]",Word Root
+pseud-,false ,ψευδής (false),Word Root
+puerper-,childbirth,puerperus (adj from puer-pario: bringing forth children),Word Root
+pylor-,pylorus (pyloric sphincter,"pylorus, i (pylorus) related to Greek πυλωρός (gate-keeper, warder; lower portion of stomach)",Word Root
+terat-,malformations,"τέρας, τέρατος (sign, wonder, portent, monster)",Word Root
+ante-,before,ante (before),Prefix
+micro-,small,μικρός (small),Prefix
+multi-,many,"multus, a, um (many)",Prefix
+nulli-,non,"nullus, a, um (none)",Prefix
+post-,after,post (after),Prefix
+pre-,before,pre (before),Prefix
+ -amnios,"amnion, amniotic fluid","ἀμνίον (bowl to catch sacrificial victim blood, inner membrane around fetus) related to ὁ αμνος, lamb",Suffix
+ -cyesis,pregnancy,"κύησις (conception, pregnancy)",Suffix
+ -e,no meaning,original Greek/Latin ending --- Zero-suffix item,Suffix
+ -is,no meaning,original Greek/Latin ending --- Zero-suffix item,Suffix
+ -rrhexis,rupture,"ῥῆξις (breaking, bursting)",Suffix
+ -tocia,"birth, labor","τόκος (childbirth, offspring) + -ia",Suffix
+ -um, no meaning,original Greek/Latin ending --- Zero-suffix item,Suffix
+ -us,no meaning,original Greek/Latin ending --- Zero-suffix item,Suffix
+angi-,vessel (usu. blood ~),"ἀγγεῖον (vessel, bowl,body cavity) ",Word Root
+aort-,aorta,ἀορτή (artery; knapsack hanging from shoulders),Word Root
+arteri-,artery,ἀρτηρία (airpipe) < ἀηρτεριον (air duct) < αηρ +τερεω (bore through/pierce),Word Root
+ather-,"yellowish, fatty plaque","ἀθερής: (hard, solid) OR  ἀθήρα (gruel, porridge)",Word Root
+atri-,atrium,"atrium, i (entrance to house)",Word Root
+cardi-,heart,καρδία (heart),Word Root
+ech-,sound,"ἠχώ, ὠχοῦς, ἡ (a [ringing] sound)",Word Root
+electr-,"electricity, electrical activity","ἤλεκτρον (amber, alloy of gold+silver)",Word Root
+isch-,"deficiency, blockage","ἴσχω (to hold back, restrain)",Word Root
+lymph-,"lymph, lymph tissue","lympha, -ae (clear/spring water) ",Word Root
+lymphaden-,lymph node,lympha + αδην,Word Root
+myel-,bone marrow,"μυελός (marrow; brain, spinal cord)",Word Root
+phleb-,vein,"φλέψ, φλέβος (blood vessel, ureter)",Word Root
+plasm-,plasma,"πλάσμα (anything molded, a figure, counterfeit)",Word Root
+splen-,spleen,"σπλήν, σπληνὀς (spleen)",Word Root
+therm-,heat,"θέρμη (heat, feverish heat, hot springs)",Word Root
+thromb-,clot,"θρόμβος (lump, piece, clot, curd)",Word Root
+thym-,thymus gland,θύμον (thyme),Word Root
+valv-,valve,"valva, -ae (door leaf, folding door), related to volvo (turn)",Word Root
+valvul-,valve,dim of valva,Word Root
+ven-,vein,"vena, -ae (blood vessel, artery)",Word Root
+ventricul-,ventricle ,"ventriculus (belly, stomach; dim of venter)",Word Root
+brady-,slow,βραδύς (slow),Prefix
+pan-,"all, total","πᾶς, πᾶσα, πᾶν (all, every)",Prefix
+ -ac,pertaining to,adjective suffix,Suffix
+ -apheresis,removal,ἀπό (from) + αἱρέω (seize) + εσις (process of),Suffix
+ -penia,abnormal reduction (in number) ,"πενία (poverty, need, lack)",Suffix
+ -poiesis,formation,"ποίησις (fabrication, creation, production)",Suffix
+ -sclerosis,hardening,σκλήρωσις (hardening),Suffix
+abdomin-,"abdomen, abdonimal cavity","abdomen, -inis (n) (fat lower part of body, abdomen)",Word Root
+an-,anus,"anus, -i (anus) ",Word Root
+antr-,antrum,"antrum, -i (cave, grotto; later: cavity)",Word Root
+append-,appendix,"ad (toward, near) + pendix, pendicis (hanging thing)",Word Root
+appendic-,appendix,"ad + (pendix, pendicis) ",Word Root
+cec-,cecum,"caecus, a, um (blind)",Word Root
+celi-,"abdomen, abdonimal cavity","κοιλία (any body cavity - thorax, abdomen, intestines, excrement)",Word Root
+cheil-,lip,"χεῖλος, -εος, το (lip)",Word Root
+chol-,"gall, bile","χολή (bile, gall) ",Word Root
+cholangi-,bile duct,χολή + ἀγγεῖον,Word Root
+choledoch-,common bile duct,χολή + δοχή/δοχεῖον (receptacle) ,Word Root
+col-,colon,κόλον (colon),Word Root
+colon-,colon,κόλον,Word Root
+diverticul-,diverticulum,"deverticulum (by-road, digression, refuge)",Word Root
+duoden-,duodenum,duodecim > duodeni (Late): 12 apiece,Word Root
+enter-,intestine,"ἔντερον (intestine, gut)",Word Root
+gastr-,stomach,γαστήρ (stomach + womb),Word Root
+gingiv-,gum,"gingiva, -ae (gum)",Word Root
+gloss-,tongue,γλῶσσα (tongue),Word Root
+hepat-,liver,"ἧπαρ, ἧπατος, το (liver) ",Word Root
+herni-,"hernia, or protrusion of an organ through a membrane or cavity wall","hernia, -ae (rupture) ",Word Root
+ile-,ileum,"ileum (17th cent Latin)  from ειλεός (intestinal obstruction, lurking place)",Word Root
+jejun-,jejunum,"ieiunus, a, um (fasting, hungry, barren, poor)",Word Root
+lapar-,"abdomen, abdonimal cavity",λαπάρα (soft part of the body btw ribs/hip; flank),Word Root
+lingu-,tongue,"lingua, -ae (tongue)",Word Root
+or-,mouth,"os, oris n. (mouth)",Word Root
+palat-,palate,"palatum, -i  (palate)",Word Root
+pancreat-,pancreas,"παν + κρέας, κρέατος (flesh, meat, carcass)",Word Root
+peritone-,peritoneum,περιτόναιος (stretched or strained over; esp. membrane covering lower viscera),Word Root
+polyp-,"polyp, small growth",πολύπους (many footed),Word Root
+proct-,rectum,προκτός (anus),Word Root
+rect-,rectum,"rectus, a, um (straight, upright, direct, proper) ",Word Root
+sial-,"saliva, salivary gland","σίαλον (spit, saliva)",Word Root
+sigmoid-,sigmoid colon,σιγμα (the letter!),Word Root
+steat-,fat,"στέαρ, στέατος, το (hard fat, suet, tallow)",Word Root
+stomat-,mouth,"στόμα, στόματος (mouth esp. as speech organ, any outlet or entrance, front)",Word Root
+uvul-,uvula,"uvula, -ae late latin dim of uva, -ae ""grape"" (small bunch of grapes)",Word Root
+hemi-,half,ἡμι- (half),Prefix
+ -pepsia,digestion,"πέψις (cooking, fermentation, digestion)",Suffix
+blephar-,eyelid,βλέφαρον (eyelid),Word Root
+conjunctiv-,conjunctiva,con/cum (with)+ iungo (join),Word Root
+cor-,pupil,"κόρη (girl, doll, pupil, because the image appears there)",Word Root
+core-,pupil,"κόρη (girl, doll, pupil, because the image appears there)",Word Root
+corne-,cornea,"corneus (like an animal’s horn, hard)",Word Root
+cry-,cold,"κρύος, -εος, το (icy cold, chill, frost)",Word Root
+dacry-,"tear, tear duct",δάκρυον (tear),Word Root
+dipl-,"two, double",διπλῃ~ (twice),Word Root
+ir-,iris,"ἶρις, ἴριδος (rainbow, iris of the eye)",Word Root
+irid-,iris,"ἶρις, ἴριδος ",Word Root
+is-,equal,"ἴσος (equal, flat fair)",Word Root
+kerat-,cornea,"κεράς, κεράτος, το (horn of an animal and anything made from it)",Word Root
+lacrim-,"tear, tear duct","lacrima, -ae (tear)",Word Root
+ocul-,eye,"oculus, i (eye)",Word Root
+ophthalm-,eye,ὀφθαλμός (eye),Word Root
+opt-,vision,opticus (visible) > ὀπτικός (visible) ,Word Root
+phac-,lens,"φακός (lentil, anything with that shape)",Word Root
+phak-,lens,"φακός (lentil, anything with that shape)",Word Root
+phot-,light,"φῶς, φωτός (light)",Word Root
+pupill-,pupil,"pupilla, -ae (orphan girl, minor, eye-pupil, dim. of pupa (girl, doll))",Word Root
+retin-,retina,"rete, retis n. (net)",Word Root
+scler-,sclera,"σκληρός (hard, stiff, austere)",Word Root
+ton-,"tension, pressure","τόνος (a thing for stretching, animal tendons, cord, tension)",Word Root
+bin-,two,bis (two times),Prefix
+ -opia,vision (condition),"ὤψ, ὠπός (eye, face) + ia",Suffix
+ -phobia,abnormal fear of or aversion to specific things,φόβος (fear) + ia,Suffix
+ -plegia,paralysis,"πληγή (blow, strike, stroke of calamity) + ia",Suffix
+audi-,hearing,audio (hear),Word Root
+aur-,ear,"auris, is (ear)",Word Root
+cochle-,cochlea,"κόχλος (shell fish with spiral shell, land snail) > κοχλιας (snail with spiral shell; other twisted things like screws) into Latin cochlea/coclea ",Word Root
+labyrinth-,labyrinth (inner ear),λαβύρινθος (maze),Word Root
+mastoid-,mastoid bone,μαστός (breast) + ειδος (appearance),Word Root
+myring-,tympanic membrane (eardrum),"μῆνιγξ, μήνιγγος (membrane)",Word Root
+ot-,ear,"οὖς, ὠτός (ear)",Word Root
+stapes-,stapes (middle ear bones),"stapes (Medieval Latin = stirrup) probably from sto, stare (stand) + pes, pedis (foot) ",Word Root
+tympan-,"tympanic membrane (eardrum), middle ear",τύμπανον (kettle-drum) into Latin as tympanum (drum),Word Root
+vestibul-,vestibule,"vestibulum -i (entrance, porch, opening)",Word Root
+ankyl-,"stiff, bent","αγκύλος (crooked, curved, beaked, hooked)",Word Root
+aponeur-,aponeurosis,απο (from) + νευρον (tendon),Word Root
+arthr-,joint,ἄρθρον (joing),Word Root
+burs-,bursa (cavity) ,"βύρσα (hide, leather, wineskin)",Word Root
+carp-,carpals (wrist),"carpus, -i m (wrist)",Word Root
+chondr-,cartilage,"χόνδρος (grain, granule of salt, gruel, gristle)",Word Root
+clavic-,clavicle (collarbone),"clavicula, -ae > dim. of clavis = key, bolt, bar, tool to drive a top/wheel",Word Root
+clavicul-,clavicle (collarbone),"clavicula, -ae ",Word Root
+cost-,rib,"costa, -ae f. (rib)",Word Root
+crani-,cranium (skull),"κρανίον (upper part of head, skull, head)",Word Root
+disk-,intervertebral disk,"δίσκος (dish, round mirror, gong)",Word Root
+femor-,femur (upper leg bone),"femur, femoris n. (femur)",Word Root
+fibul-,fibula (lower leg bone),"fibula, -ae (fibula)",Word Root
+humer-,humerus (upper arm bone),"(h)umerus, -i (no h in the original latin) [bone of upper arm, shoulder]",Word Root
+ili-,ilium,"ilia, -orum (n pl) (groin, flanks, abdomen below ribs)",Word Root
+ischi-,ischium,ἰσχίον (hip joint) ,Word Root
+knesi-,"movement, motion",κίνησις (movement),Word Root
+kyph-,hump (increased convexity of the spine),κυφός (hunched),Word Root
+lamin-,"lamina (thin, flat plate or layer) ","lamina, -ae f. (thin metal plate, layer)",Word Root
+lord-,bent forward (increased concavity of the spine),"λορδός (bent backward, convex in front)",Word Root
+lumb-,"loin, lumbar region of the spine","lumbus, -i (loin, genital organs)",Word Root
+mandibul-,mandible (lower jawbone),"mandibula, -ae/mandibulum, -i post-Classical (jaw)",Word Root
+maxill-,maxilla (upper jawbone),"maxilla, -ae (jaw)",Word Root
+menisc-,meniscus (crescent),"meniscus, -i (meniscus, little moon – new Latin)",Word Root
+myos-,muscle,"μῦς, μύος (field mouse, muscle)",Word Root
+oste-,bone,ὀστέον (bone),Word Root
+patell-,patella,"patella, -ae (kneecap, small dish))",Word Root
+petr-,stone,"πέτρα (rock, cliff, stone)",Word Root
+phalang-,phalanges (any bone of fingers or toes),"φάλανξ, φάλαγγος (line of soldiers, finger)",Word Root
+pub-,pubis,"pubes, pubis f. (young men, male genitals)",Word Root
+rachi-,"vertebra, spine, vertebral cloumn","ῥάχις, ράχιος (spine/backbone) ",Word Root
+radi-,radius (lower arm bone),"radius, -ii (rod, spoke, ray, radius bone)",Word Root
+sacr-,sacrum,short for os sacrum (sacrum = holy),Word Root
+scapul-,scapula (shoulder blade),"scapula, ae f. shoulder-blades, shoulder, back)",Word Root
+scoli-,"crooked, curved (spine)","σκολιός (twisted, bent, crooked)",Word Root
+spondyl-,"vertebra, spine, vertebral cloumn",σπόνδυλος (a vertebra and other ridge-y things),Word Root
+stern-,sternum (breastbone) ,"sternum, i, (chest)",Word Root
+synovi-,"synovia, synovial membrane",invented Latin,Word Root
+tars-,tarsals (ankle bones),"ταρσός (mat, flat of the foot btw toes/heels, palm of the hand, ankle)",Word Root
+ten-,tendon,"tendo, tendinis (medical latin), comes from τένων, τένοντος (sinew. tendon, stretched band)",Word Root
+tend-,tendon,"tendo, tendinis",Word Root
+tendin-,tendon,"tendo, tendinis",Word Root
+tibi-,tibia (lower leg bone),"tibia, ae (large shin bone, pipe or flute)",Word Root
+uln-,ulna (lower arm bone),"ulna, -ae (elbow, arm) (from greek:ὠλένη)",Word Root
+vertebr-,"vertebra, spine, vertebral column","vertebra, -ae (joint, vertebra in spine)",Word Root
+inter-,between,inter (between),Prefix
+supra-,above,supra (above),Prefix
+sym-,"together, joined",σύν (with),Prefix
+syn-,"together, joined",σύν,Prefix
+ -asthenia,weakness,α (not) + σθένος (strength),Suffix
+ -clasia ,break,"κλάσις (breaking, fracture)",Suffix
+ -clasis,break,κλάσις),Suffix
+ -clast,break,κλαστός (adj: broken in pieces),Suffix
+ -desis,"surgical fixation, fusion",δέσις (binding together),Suffix
+ -physis,growth,"φύσις (nature, natural form as a result of growth)",Suffix
+ -schisis,"split, fissure","σχίσις (cleaving, parting, division)",Suffix
+cerebell-,cerebellum,"cerebellum > dim. of cerebrum ""little brain""",Word Root
+cerebr-,"cerebrum, brain","cerebrum, i n. (brain, understanding)",Word Root
+dur-,"hard, dura mater",durus (adj),Word Root
+encephal-,brain,εγκέφαλος (εν – in +κεφαλη - head),Word Root
+esthesi-,"sensation, sensitivity, feeling",αἴσθησις (perception),Word Root
+gangli-,ganglion,γαγγλίον (encysted tumor on a tendon/aponeurosis),Word Root
+ganglion-,ganglion,γαγγλίον ,Word Root
+gli-,"glia, gluey substance",γλία (glue),Word Root
+mening-,meninges,"(meninga, -ae) μῆνιγξ, μήνιγγος, ἡ (membrane, eye/eardrum esp of brain - dura mater)",Word Root
+meningi-,meninges,"(meninga, -ae) μῆνιγξ, μήνιγγος, ἡ ",Word Root
+ment-,mind,"mens, mentis f. (mind)",Word Root
+mon-,"one, single","μόνος (one, only)",Word Root
+myel-,spinal cord,"μυελός (marrow; brain, spinal cord)",Word Root
+phas-,speech,"φάσις (utterance, expression)",Word Root
+poli-,gray matter,πολίος (gray [usually of hair]),Word Root
+psych-,mind,"ψυχή (life, soul, consciousness)",Word Root
+quadr-,four,quattor (four) / quadro (to make square) ,Word Root
+radic-,nerve root,"radix, radicis f. (root, foundation) - related to greek ῥίζα (root) ῥάδιξ (twig)",Word Root
+radicul-,nerve root,"dim of radix; in Latin there does exist radicula, -ae (small root)",Word Root
+rhiz-,nerve root,ῥίζα (root),Word Root
+ -iatrist,"specialist, physician",ἰατρός (doctor) + ist (latin -ista/Gk ιστης - one who does...),Suffix
+ -iatry,"treatment, specialty",ἰατρός + y,Suffix
+ -ictal,"seizure, attack","ictus, -us (blow) + al",Suffix
+ -paresis,slight paralysis,"πάρεσις (letting go, paralysis)",Suffix
+acr-,"extremities, height",ακρον (noun - extremity of body),Word Root
+adren-,adrenal glands,invented: ad (near) + ren (kidney),Word Root
+adrenal-,adrenal glands,ad (near)+ ren (kidney)+ al (pertaining to),Word Root
+calc-,calcium,"calx, calcis f.  (limestone, game stone, also: the heel)",Word Root
+cortic-,cortex (outer layer of body organ),"cortex, icis f  (bark)",Word Root
+dips-,thirst,δίψα (thirst),Word Root
+endocrin-,endocrine,"ἔνδον + κρίνω (chose, judge, i.e. separate)",Word Root
+kal-,potassium,"kalium; new Latin, from alkali, > through many steps, comes from a variant of Arabic qily ""saltwort ashes"" (saltwort = plants growing on sea beaches, salt marshes, etc, especially of amaranth)",Word Root
+natr-,sodium,"νίτρον, into arabic, into spanish, into french as natron",Word Root
+parathyroid-,parathyroid glands,παρα (alongside/near) + θυροιδ (door-like appearance),Word Root
+pituitar-,pituitary gland,"pituita, -ae (slime, phlegm)",Word Root
+thyr-,thyroid gland,θυρεοιεδες (shield shaped: from Galen describing the adam's apple) ,Word Root
+thyroid-,thyroid gland,θυρεοιεδες,Word Root
+ -drome,"run, running","δρομή = δρόμος (course, race)",Suffix
